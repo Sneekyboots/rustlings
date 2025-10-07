@@ -1,1 +1,6 @@
-this is rusling exercises helping with learning rust for solana.
+# Rustlings
+
+I completed all the Rustlings exercises in this repository.
+
+---
+Happy Rusting! 🦀
